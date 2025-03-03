@@ -1,3 +1,4 @@
+#Edit
 # Interview Coder
 
 An invisible desktop application that will help you pass your technical interviews.
